@@ -2,7 +2,7 @@ package arylist;
 
 import java.util.ArrayList;
 
-public class ShopList {
+public class ArraYlist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
