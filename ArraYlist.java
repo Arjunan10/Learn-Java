@@ -5,8 +5,10 @@ import java.util.ArrayList;
 public class ArraYlist {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//ArrayList
+		
+		// Uncomment codes and see the results too! 1D&2DArrraylist
+		
+		//1- ArrayList
  		
 		/*
 		 * ArrayList<String>Chips=new ArrayList<String>(); Chips.add("Lays");
@@ -50,9 +52,10 @@ public class ArraYlist {
     Snacks.add(Chips);
    
   
-  // for(ArrayList<String> i : Snacks) {
-	//   System.out.println(i);
-	//}
+    /*for(ArrayList<String> i : Snacks) {
+        System.out.println(i);
+	}
+     */
     System.out.println(Snacks);
     System.out.println("This Week's Best Selling Choclate: "+Snacks.get(1).get(0));
     System.out.println("This Week's Best Selling Biscuit :"+Snacks.get(0).get(1));
